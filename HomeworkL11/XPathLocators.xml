@@ -1,7 +1,8 @@
 //*[@id="nav-link-home"] - Home
-        //*[@id="nav-link-login"] - Login
-        //input[@formcontrolname='username' - Username
-        //input[@formcontrolname='email' - email
-        //*[@id="defaultRegisterFormPassword"] - Password
-        //*[@id="defaultRegisterPhonePassword"] - Confirm password
-        //*[@id="sign-in-button"] - Sign in
+//button[@class='navbar-toggler'] - iSkillo header button
+//*[@id="nav-link-login"] - Login
+//input[@formcontrolname='username' - Username
+//input[@formcontrolname='email' - email
+//*[@id="defaultRegisterFormPassword"] - Password
+//*[@id="defaultRegisterPhonePassword"] - Confirm password
+//*[@id="sign-in-button"] - Sign in
